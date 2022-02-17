@@ -1,3 +1,3 @@
-# coder-rstudio
+# coder-jupyter-lab
 
-Docker image that runs RStudio as a generic application
+Docker image that makes jupyter-lab run instead of jupyter-notebook from the default application.
